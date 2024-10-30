@@ -28,8 +28,8 @@
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sonar.host.url>http://13.232.173.189:9000/</sonar.host.url>
-        <sonar.login>squ_4db34627826ad2845c7b0267c2d9013bf1a82e99</sonar.login>
+        <sonar.host.url>http://54.179.36.253:9000/</sonar.host.url>
+        <sonar.login>sqp_87f294e70c65b39ef751a1d6a20bb9f2f465133b</sonar.login>
         </properties>
     <distributionManagement>
     <repository>
